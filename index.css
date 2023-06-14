@@ -1,0 +1,11 @@
+@charset "utf-8";
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+}
+body script {
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(1,174,0,0.69) 0%,rgba(255,255,255,0.39) 34.72%,rgba(255,255,255,0.42) 65.28%,rgba(1,169,0,0.83) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(1,174,0,0.69) 0%,rgba(255,255,255,0.39) 34.72%,rgba(255,255,255,0.42) 65.28%,rgba(1,169,0,0.83) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(1,174,0,0.69) 0%,rgba(255,255,255,0.39) 34.72%,rgba(255,255,255,0.42) 65.28%,rgba(1,169,0,0.83) 100%);
+    background-image: linear-gradient(180deg,rgba(1,174,0,0.69) 0%,rgba(255,255,255,0.39) 34.72%,rgba(255,255,255,0.42) 65.28%,rgba(1,169,0,0.83) 100%);
+}
